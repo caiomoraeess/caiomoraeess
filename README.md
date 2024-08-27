@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindos ao meu perfil 💙
 
-<!--
-**caiomoraeess/caiomoraeess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e caio moraes
 
-Here are some ideas to get you started:
+-plataforma [Alura](https://ww.alura.com.br) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou me desenvolvendo na linguaem javascript
+
+- utilizo esse espaço para minha organizaçao e comprartilhamento dos meus projetos desenvolvidos
+
+ ### voce pode entrar em contato comigo 📪
+
+ caiomoraesj2@gamil.com
+
+![](https://media1.tenor.com/m/cCv2UQEjf9sAAAAC/boulos-guilherme.gif)
+ 
